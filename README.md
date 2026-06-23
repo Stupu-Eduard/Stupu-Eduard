@@ -39,3 +39,21 @@
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Stupu-Eduard&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
 </div>
+
+---
+
+### 🏆 Featured Projects
+
+#### 📈 [Test2Trade](https://github.com/Stupu-Eduard/test2trade) — *Algorithmic Trading & Backtesting Engine*
+> A comprehensive web platform bridging the gap between raw code and actionable market insights. It enables quantitative traders to write custom **Python** strategies, execute them against historical market data (e.g., Binance, Yahoo Finance), and analyze the performance through an interactive dashboard detailing win rates, drawdowns, and day-by-day averages. Currently researching **AI integrations** for generating executable code from natural language checklists.
+> 
+> **Tech Stack:** `Spring Boot` • `React` • `Python` • `PostgreSQL`
+
+<br>
+
+#### 🚨 [CoA (Crisis Containment Service)](https://github.com/Stupu-Eduard/webb) — *Real-Time Disaster Management System*
+> A fully containerized, secure web platform designed for authorities to monitor and manage large-scale emergency situations (earthquakes, fires, floods). The system features automated background synchronization with public earthquake APIs, dynamic evacuation routing based on calamity type, and population broadcasting utilizing the **Common Alerting Protocol (CAP)**.
+> 
+> **Tech Stack:** `PHP` • `PostgreSQL` • `Docker` • `HTML/CSS`
+
+---
