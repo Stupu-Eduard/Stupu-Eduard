@@ -34,6 +34,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Stupu-Eduard&show_icons=true&theme=dracula&hide_border=true" alt="Eduard's GitHub stats" height="192" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Stupu-Eduard&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" height="192" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Stupu-Eduard&show_icons=true&theme=dracula&hide_border=true" alt="Eduard's GitHub stats" />
+  <br />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Stupu-Eduard&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
 </div>
