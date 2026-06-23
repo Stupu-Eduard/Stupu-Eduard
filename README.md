@@ -51,9 +51,16 @@
 
 <br>
 
-#### 🚨 [CoA (Crisis Containment Service)](https://github.com/Stupu-Eduard/webb) — *Real-Time Disaster Management System*
+#### 🚨 [CoA (Crisis Containment Service)](https://github.com/Stupu-Eduard/webb) — *Real-Time Disaster Management System* &nbsp; [▶️ Watch Demo](https://youtu.be/d_OphiTu9vk)
 > A fully containerized, secure web platform designed for authorities to monitor and manage large-scale emergency situations (earthquakes, fires, floods). The system features automated background synchronization with public earthquake APIs, dynamic evacuation routing based on calamity type, and population broadcasting utilizing the **Common Alerting Protocol (CAP)**.
 > 
-> **Tech Stack:** `PHP` • `PostgreSQL` • `Docker` • `HTML/CSS`
+> **Tech Stack:** `PHP` • `JavaScript` • `PostgreSQL` • `Docker` • `HTML/CSS`
+
+<br>
+
+#### 🏢 [Numele Proiectului] — *Enterprise Distributed System* &nbsp; [▶️ Watch Demo](https://youtu.be/d3MWPCnWm3k)
+> A highly complex, large-scale distributed application developed collaboratively in a massive team environment, simulating real-world Agile methodologies and strict Git-flow coordination. The backend relies on a robust **Java** architecture (handling complex microservices/APIs) and advanced database operations using **PL/pgSQL**, seamlessly integrated with a modern **TypeScript** frontend. The system is built for scalability, featuring complex inter-service communication and secure data management.
+> 
+> **Tech Stack:** `Java` • `TypeScript` • `PL/pgSQL` • `PostgreSQL` • `CSS`
 
 ---
