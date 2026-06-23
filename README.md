@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning [React and Python](https://github.com/Stupu-Eduard/test2trade.git)
 
-- 👨‍💻 All of my projects are available at [github.com/Stupu-Eduard](github.com/Stupu-Eduard)
+- 👨‍💻 All of my projects are available at [https://github.com/Stupu-Eduard](https://github.com/Stupu-Eduard)
 
 - 📫 How to reach me **eduard.stupu1@gmail.com**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/eduard stupu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eduard stupu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/eduard-stupu-406baa33a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eduard-stupu-406baa33a" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
