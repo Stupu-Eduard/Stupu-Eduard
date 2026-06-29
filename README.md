@@ -58,7 +58,7 @@
 
 <br>
 
-#### 🏢 [Numele Proiectului] — *Enterprise Distributed System* &nbsp; [▶️ Watch Demo](https://youtu.be/d3MWPCnWm3k)
+#### 🏢 [Family Agent] — *Enterprise Distributed System* &nbsp; [▶️ Watch Demo](https://youtu.be/d3MWPCnWm3k)
 > A highly complex, large-scale distributed application developed collaboratively in a massive team environment, simulating real-world Agile methodologies and strict Git-flow coordination. The backend relies on a robust **Java** architecture (handling complex microservices/APIs) and advanced database operations using **PL/pgSQL**, seamlessly integrated with a modern **TypeScript** frontend. The system is built for scalability, featuring complex inter-service communication and secure data management.
 > 
 > **Tech Stack:** `Java` • `TypeScript` • `PL/pgSQL` • `PostgreSQL` • `CSS`
